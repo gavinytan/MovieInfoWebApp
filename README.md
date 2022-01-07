@@ -1,5 +1,6 @@
 # MovieInfoWebApp
 //This is a copy of the movie info web app created with a group of students.
+
 //View Video presentation.mp4 for a showcase of the features of the app
 
 In order to run:
