@@ -1,0 +1,18 @@
+As a logged-in user, I want to input my favorite actors in order to get a recommendation of shows
+
+Description:
+As a Logged In User
+I want to input my favorite actors and get a recommendation of shows/movies
+In order to find shows/movies that my favorite actors are in.
+
+Acceptance Criteria:
+Given I visit the search page
+When I click the “Favorite Actors” filter, input my favorite actors, and apply the filter
+Then a list of movie/show recommendations that involve one or more of my favorite actors will be returned
+
+Exceptions:
+If I input the name of an actor that has no movies associated with them
+Then I will be provided a list of actors with similar names
+
+If I do not input any actor’s name and apply the filter
+Then A prompt stating to input one or more actors will be displayed

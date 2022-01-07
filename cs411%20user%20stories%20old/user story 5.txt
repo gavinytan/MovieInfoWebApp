@@ -1,0 +1,17 @@
+As a user without an account, I want to be able to have certain options without having an account or being logged in
+
+Description: 
+As a user without an account or logged in
+I want to be able to view and do things
+In order to explore the app
+
+Acceptance Criteria: 
+If I enter the app or click on something, it should not keep prompting to create an account
+Then I can explore the app before I decide whether I want to create an account or not
+If I choose to use the app
+Then I should be able to view and use certain features even without an account. I won’t be prevented from using the app because I don’t have an account, unless there is a special feature that only users without accounts can use.
+
+
+Exceptions:
+If I choose to not create an account
+Then I will not be prompted to create an account until the next time I enter the app after closing it

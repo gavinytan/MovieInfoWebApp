@@ -1,0 +1,1 @@
+﻿We chose Node.js because it matched with our front end React. We chose React because one of our group members was familiar with it. We had considered using Django because it used the python language, which more of us were familiar with (most of us did not know JavaScript), but we believed it would be harder to make it work with our front end (React).

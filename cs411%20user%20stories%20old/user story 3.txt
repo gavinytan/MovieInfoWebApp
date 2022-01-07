@@ -1,0 +1,20 @@
+As a returning user, I want to be able to sign in to  access the Web App and my personal recommendations of movies/shows.
+
+Description:
+As a returning user
+I want to be able to log in to my account
+In order to be able check any new movies or shows that are recommended.
+
+Acceptance Criteria:
+If I enter in a valid username and password,
+Then I will be logged into my personal account with my own profile.
+
+Exceptions:
+If the username is non-existent,
+Then I will be prompted to try again while indicating that the username does not exist.
+
+If the username is valid but the password does not match the username,
+Then I will be prompted to  try again while indicating that the password does not match the username.
+
+If the username and the password are both valid and match,
+Then I will be logged in and have access to the content in the Web App.

@@ -1,0 +1,17 @@
+As a new user, I should be able to create a new account and obtain access to the Web App.
+
+Description:
+As a new user
+I want to be able to create an account
+In order to access the rest of the app content.
+
+Acceptance Criteria:
+If I click the button for new account,
+Then I will be prompted to input a username and password.
+If the username is valid and not in use,
+Then I will be prompted to fill in some personal preferences,
+The I will have created an account and gained access to the Web App,
+
+Exceptions:
+If the username is already in use,
+Then I will be prompted to use another username.

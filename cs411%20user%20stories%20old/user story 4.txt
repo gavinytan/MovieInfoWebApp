@@ -1,0 +1,20 @@
+As a logged-in user, I should be able to input my mood in order to get a recommendation of shows
+
+Description: 
+As a logged in user
+I want to input my current mood 
+In order to get a recommendation of shows
+
+Acceptance Criteria: 
+If I click the mood button
+Then I will be able to choose my current mood among 6 different categories of mood we provided. (happy, sad, depressed, romantic, angry, scared)
+If I finalize my answer 
+Then I can rank from 1 to 5 of my current mood, and get back a list of recommendations
+
+
+Exceptions:
+If all 6 categories of mood are not well described my mood, 
+Then I will be able to click the “Can’t find your current mood” section, and type in my current mood, and we will do our best to fit into one or combination of these categories. 
+
+If my current mood still can not find the best place to fit into the model
+Then I will be notified of this fact and be asked to try a different words to describe your mood
