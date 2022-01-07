@@ -1,0 +1,18 @@
+Two Ideas
+1. 
+Our app will focus on the user's mood or previous watch history as our inputs into the system. Next, it will take those inputs and analyze them depending on the input. If their mood is used as an input then we can choose an appropriate list from the most recent or popular now from multiple viewing platforms such as Netflix, Hulu, Disney+ etc. The same could be done for the input of a list of recent watch history. However for this specific input we could also look at multiple parameters including runtime specific genres or maybe even the cast in the movies. As for specific APIs that we are looking into using in the app is one for the  movies or tv shows such as Utelly API which covers movies and tv shows across multiple streaming services such as  Netflix, Amazon Prime Videos, and Rakuten tv.
+
+APIs
+https://www.programmableweb.com/api/youtube
+https://www.programmableweb.com/api/bbc
+https://www.programmableweb.com/api/itunes-app-store-search
+https://www.programmableweb.com/api/open-movie-database
+
+2.
+This app will first take in a running speed. It will then generate a playlist based on the specified speed. Some more possible features could include the ability to take into account previous music history or taking into account the user's mood. It could also take in the runner’s previous jogging history as to estimate the amount of time the user may run and the average speed they run at. 
+
+APIs
+https://www.programmableweb.com/api/itunes-app-store-search
+https://www.programmableweb.com/api/spotify-web
+
+
